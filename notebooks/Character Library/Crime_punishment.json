@@ -1,0 +1,189 @@
+{
+  "Rodion_Raskolnikov": {
+    "aliases": [
+      "Raskolnikov",
+      "Rodion Romanovich Raskolnikov",
+      "Rodion Romanovich",
+      "Rodion",
+      "Rodya",
+      "Rodka",
+      "Rodenka",
+      { "text": "the student", "tier": 3 },
+      { "text": "the young man", "tier": 3 },
+      { "text": "the lodger", "tier": 3 },
+      { "text": "the murderer", "tier": 3 },
+      { "text": "the author of the article", "tier": 3 },
+      { "text": "the former student", "tier": 3 }
+    ],
+    "gender": "M"
+  },
+
+  "Sonia_Marmeladov": {
+    "aliases": [
+      "Sonia",
+      "Sonya",
+      "Sofya Semyonovna Marmeladov",
+      "Sofya Semyonovna",
+      "Marmeladova",
+      "Sofya",
+      "Sonechka",
+      "Sonsyushka",
+      { "text": "Marmeladov's daughter", "tier": 3 },
+      { "text": "Katerina Ivanovna's stepdaughter", "tier": 3 }
+    ],
+    "gender": "F"
+  },
+
+  "Avdotya_Raskolnikov": {
+    "aliases": [
+      "Dunya",
+      "Dounia",
+      "Avdotya Romanovna Raskolnikov",
+      "Avdotya Romanovna",
+      "Raskolnikova",
+      "Dunechka",
+      "Dunyechka",
+      "Avdotya",
+      { "text": "Rodion's sister", "tier": 3 },
+      { "text": "Raskolnikov's sister", "tier": 3 }
+    ],
+    "gender": "F"
+  },
+
+  "Arkady_Svidrigailov": {
+    "aliases": [
+      "Svidrigailov",
+      "Arkady Ivanovich Svidrigailov",
+      "Arkady Ivanovich",
+      "Arkady",
+      { "text": "the landowner", "tier": 3 }
+    ],
+    "gender": "M"
+  },
+
+  "Dmitri_Razumikhin": {
+    "aliases": [
+      "Razumikhin",
+      "Dmitri Prokofych Razumikhin",
+      "Dmitri Prokofych",
+      "Prokofych",
+      "Vrazumikhin",
+      "Dmitri",
+      "Mitka",
+      { "text": "Raskolnikov's friend", "tier": 3 }
+    ],
+    "gender": "M"
+  },
+
+  "Pyotr_Luzhin": {
+    "aliases": [
+      "Luzhin",
+      "Pyotr Petrovich Luzhin",
+      "Pyotr Petrovich",
+      { "text": "Dunya's fiancé", "tier": 3 },
+      { "text": "Avdotya Romanovna's fiancé", "tier": 3 },
+      { "text": "the lawyer", "tier": 3 },
+      { "text": "the suitor", "tier": 3 }
+    ],
+    "gender": "M"
+  },
+
+  "Porfiry_Petrovich": {
+    "aliases": [
+      "Porfiry Petrovich",
+      "Porfiry",
+      { "text": "the examining magistrate", "tier": 3 },
+      { "text": "the investigator", "tier": 3 },
+      { "text": "the head of the investigation department", "tier": 3 },
+      { "text": "the magistrate", "tier": 3 }
+    ],
+    "gender": "M"
+  },
+
+  "Semyon_Marmeladov": {
+    "aliases": [
+      "Marmeladov",
+      "Semyon Zakharovich Marmeladov",
+      "Semyon Zakharovich",
+      { "text": "the titular councillor", "tier": 3 },
+      { "text": "the official", "tier": 3 },
+      { "text": "the drunkard", "tier": 3 }
+    ],
+    "gender": "M"
+  },
+
+  "Katerina_Ivanovna": {
+    "aliases": [
+      "Katerina Ivanovna",
+      "Marmeladova",
+      "Katerina",
+      { "text": "the officer's widow", "tier": 3 },
+      { "text": "the consumptive woman", "tier": 3 }
+    ],
+    "gender": "F"
+  },
+
+  "Alyona_Ivanovna": {
+    "aliases": [
+      "Alyona Ivanovna",
+      "Alona Ivanovna",
+      { "text": "the old woman", "tier": 3 },
+      { "text": "the pawnbroker", "tier": 3 },
+      { "text": "the money-lender", "tier": 3 },
+      { "text": "the victim", "tier": 3 },
+      { "text": "the old crone", "tier": 3 }
+    ],
+    "gender": "F"
+  },
+
+  "Lizaveta_Ivanovna": {
+    "aliases": [
+      "Lizaveta",
+      "Lizaveta Ivanovna",
+      { "text": "the pawnbroker's sister", "tier": 3 },
+      { "text": "the old woman's sister", "tier": 3 }
+    ],
+    "gender": "F"
+  },
+
+  "Pulcheria_Alexandrovna": {
+    "aliases": [
+      "Pulcheria Alexandrovna",
+      "Pulcheria",
+      { "text": "Raskolnikov's mother", "tier": 3 },
+      { "text": "Rodion's mother", "tier": 3 },
+      { "text": "the mother", "tier": 3 }
+    ],
+    "gender": "F"
+  },
+
+  "Zossimov": {
+    "aliases": [
+      "Zossimov",
+      "Zosimov",
+      { "text": "the doctor", "tier": 3 }
+    ],
+    "gender": "M"
+  },
+
+  "Alexander_Zametov": {
+    "aliases": [
+      "Zametov",
+      "Alexander Grigorievich Zametov",
+      "Alexander Grigorievich",
+      { "text": "the head clerk", "tier": 3 },
+      { "text": "the police clerk", "tier": 3 }
+    ],
+    "gender": "M"
+  },
+
+  "Andrey_Lebezyatnikov": {
+    "aliases": [
+      "Lebezyatnikov",
+      "Andrey Semyonovich Lebezyatnikov",
+      "Andrey Semyonovich"
+    ],
+    "gender": "M"
+  }
+}
+
