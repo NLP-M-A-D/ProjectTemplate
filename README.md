@@ -1,6 +1,7 @@
 # Project X 
-Group members: Y, Z
-
+Group members: Mohammad Badri - 100003064
+               A
+               D
 This repository contains the materials for **Project X**.  
 - Presentation Slides: see [`slides/`](./slides/) folder  
 - Notebooks: see [`notebooks/`](./notebooks/) folder
