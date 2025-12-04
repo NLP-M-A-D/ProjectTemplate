@@ -1,1 +1,6 @@
-
+typing
+numpy
+matplotlib
+pandas
+sentence-transformers 
+seaborn
