@@ -11,7 +11,20 @@ This repository contains the materials for **Project X**.
 ---
 - Read more about this project on Medium: <Medium_Article_link>
 ---
+## Collocation Network Nootebook
+This notebook quantifies Raskolnikov’s social change in Crime and Punishment.
+The text is split into early (first 10 chapters) and late (last 10 chapters).
+A JSON alias library detects characters accurately, and co-occurrence within a ±40 token window is used to measure interaction strength.
 
+Outputs:
+
+Number of characters connected to Raskolnikov (degree)
+
+Strength of interaction (weighted co-occurrence)
+
+Interactive PyVis networks for early vs late chapters
+
+Used to show a shift from isolation → engagement / recovery.
 ## 📑 Project Outline
 
 
