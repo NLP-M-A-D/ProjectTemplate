@@ -207,3 +207,9 @@ Deactivate the environment when you’re done:
 ```bash
 deactivate
 ```
+## 👤 Author
+**Mohammad Badri**
+**Abd Alah Fashesh**
+**Dima Barada**  
+B.Sc. Computer Science, SRH University Leipzig  
+NLP Final Project — Winter Semester 2025
